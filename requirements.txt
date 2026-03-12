@@ -1,0 +1,7 @@
+python==3.13.5
+fastapi
+uvicorn
+langchain
+langchain-google-genai
+google-generativeai
+python-dotenv
