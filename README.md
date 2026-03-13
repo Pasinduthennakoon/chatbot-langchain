@@ -38,6 +38,7 @@ This project demonstrates how to build a simple **LLM-powered chatbot backend** 
 chatbot-langchain/
 │
 ├── app.py              # FastAPI application
+├── available_models.py # Check available models in gemini
 ├── chain.py            # LangChain pipeline
 ├── config.py           # Environment configuration
 ├── requirements.txt
